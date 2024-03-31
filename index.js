@@ -9,5 +9,5 @@ app.use('/', (req, res, next)=>{
     next();
 });
 
-console.log('-: App Running 3000 :-');
+console.log('-:: App Running 3000 :-');
 app.listen(3000);
